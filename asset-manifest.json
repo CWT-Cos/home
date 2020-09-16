@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/CWT-Cosplay.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/CWT-Cosplay.github.io/static/js/main.ebec7593.chunk.js",
-    "main.js.map": "/CWT-Cosplay.github.io/static/js/main.ebec7593.chunk.js.map",
-    "runtime-main.js": "/CWT-Cosplay.github.io/static/js/runtime-main.25ec3ccd.js",
-    "runtime-main.js.map": "/CWT-Cosplay.github.io/static/js/runtime-main.25ec3ccd.js.map",
-    "static/js/2.180d86fb.chunk.js": "/CWT-Cosplay.github.io/static/js/2.180d86fb.chunk.js",
-    "static/js/2.180d86fb.chunk.js.map": "/CWT-Cosplay.github.io/static/js/2.180d86fb.chunk.js.map",
-    "index.html": "/CWT-Cosplay.github.io/index.html",
-    "precache-manifest.ae6ac4b5666a2baa42c26f08d28e8e98.js": "/CWT-Cosplay.github.io/precache-manifest.ae6ac4b5666a2baa42c26f08d28e8e98.js",
-    "service-worker.js": "/CWT-Cosplay.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/CWT-Cosplay.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.180d86fb.chunk.js.LICENSE.txt": "/CWT-Cosplay.github.io/static/js/2.180d86fb.chunk.js.LICENSE.txt"
+    "main.css": "/cwt-cosplay-home/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cwt-cosplay-home/static/js/main.6237491d.chunk.js",
+    "main.js.map": "/cwt-cosplay-home/static/js/main.6237491d.chunk.js.map",
+    "runtime-main.js": "/cwt-cosplay-home/static/js/runtime-main.042eb79b.js",
+    "runtime-main.js.map": "/cwt-cosplay-home/static/js/runtime-main.042eb79b.js.map",
+    "static/js/2.180d86fb.chunk.js": "/cwt-cosplay-home/static/js/2.180d86fb.chunk.js",
+    "static/js/2.180d86fb.chunk.js.map": "/cwt-cosplay-home/static/js/2.180d86fb.chunk.js.map",
+    "index.html": "/cwt-cosplay-home/index.html",
+    "precache-manifest.bf86905cc8a21173d2759d513e0c938e.js": "/cwt-cosplay-home/precache-manifest.bf86905cc8a21173d2759d513e0c938e.js",
+    "service-worker.js": "/cwt-cosplay-home/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cwt-cosplay-home/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.180d86fb.chunk.js.LICENSE.txt": "/cwt-cosplay-home/static/js/2.180d86fb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.25ec3ccd.js",
+    "static/js/runtime-main.042eb79b.js",
     "static/js/2.180d86fb.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ebec7593.chunk.js"
+    "static/js/main.6237491d.chunk.js"
   ]
 }
