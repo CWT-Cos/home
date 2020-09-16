@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CWT-Cosplay/CWT-Cosplay.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/CWT-Cosplay/CWT-Cosplay.github.io/static/js/main.f5830cd9.chunk.js",
+    "main.js.map": "/CWT-Cosplay/CWT-Cosplay.github.io/static/js/main.f5830cd9.chunk.js.map",
+    "runtime-main.js": "/CWT-Cosplay/CWT-Cosplay.github.io/static/js/runtime-main.a3472c3f.js",
+    "runtime-main.js.map": "/CWT-Cosplay/CWT-Cosplay.github.io/static/js/runtime-main.a3472c3f.js.map",
+    "static/js/2.180d86fb.chunk.js": "/CWT-Cosplay/CWT-Cosplay.github.io/static/js/2.180d86fb.chunk.js",
+    "static/js/2.180d86fb.chunk.js.map": "/CWT-Cosplay/CWT-Cosplay.github.io/static/js/2.180d86fb.chunk.js.map",
+    "index.html": "/CWT-Cosplay/CWT-Cosplay.github.io/index.html",
+    "precache-manifest.6269503be37b34c39e2463534f67130f.js": "/CWT-Cosplay/CWT-Cosplay.github.io/precache-manifest.6269503be37b34c39e2463534f67130f.js",
+    "service-worker.js": "/CWT-Cosplay/CWT-Cosplay.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/CWT-Cosplay/CWT-Cosplay.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.180d86fb.chunk.js.LICENSE.txt": "/CWT-Cosplay/CWT-Cosplay.github.io/static/js/2.180d86fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3472c3f.js",
+    "static/js/2.180d86fb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f5830cd9.chunk.js"
+  ]
+}
