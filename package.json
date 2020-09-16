@@ -285,7 +285,9 @@
     "walker": "^1.0.7",
     "webidl-conversions": "^4.0.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
